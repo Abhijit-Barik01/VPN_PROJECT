@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindOpenSSL.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/SelectLibraryConfigurations.cmake
+C:/VPN_PROJECT/CMakeLists.txt
+C:/VPN_PROJECT/build/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake
+C:/VPN_PROJECT/build/CMakeFiles/3.29.6/CMakeRCCompiler.cmake
+C:/VPN_PROJECT/build/CMakeFiles/3.29.6/CMakeSystem.cmake
+C:/VPN_PROJECT/vcpkg/installed/x64-windows/share/openssl/vcpkg-cmake-wrapper.cmake
+C:/VPN_PROJECT/vcpkg/scripts/buildsystems/vcpkg.cmake

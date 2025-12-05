@@ -1,0 +1,7 @@
+C:\VPN_PROJECT\src\crypto\AEAD.cpp;C:\VPN_PROJECT\build\vpn_common.dir\Release\AEAD.obj
+C:\VPN_PROJECT\src\crypto\KDF.cpp;C:\VPN_PROJECT\build\vpn_common.dir\Release\KDF.obj
+C:\VPN_PROJECT\src\crypto\KeyExchange.cpp;C:\VPN_PROJECT\build\vpn_common.dir\Release\KeyExchange.obj
+C:\VPN_PROJECT\src\tun\TunDevice.cpp;C:\VPN_PROJECT\build\vpn_common.dir\Release\TunDevice.obj
+C:\VPN_PROJECT\src\protocol\Protocol.cpp;C:\VPN_PROJECT\build\vpn_common.dir\Release\Protocol.obj
+C:\VPN_PROJECT\src\protocol\Session.cpp;C:\VPN_PROJECT\build\vpn_common.dir\Release\Session.obj
+C:\VPN_PROJECT\src\utils\UdpSocket.cpp;C:\VPN_PROJECT\build\vpn_common.dir\Release\UdpSocket.obj

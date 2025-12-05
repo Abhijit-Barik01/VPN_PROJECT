@@ -1,0 +1,5 @@
+C:/VPN_PROJECT/build/CMakeFiles/vpn_common.dir
+C:/VPN_PROJECT/build/CMakeFiles/vpn_server.dir
+C:/VPN_PROJECT/build/CMakeFiles/vpn_client.dir
+C:/VPN_PROJECT/build/CMakeFiles/ALL_BUILD.dir
+C:/VPN_PROJECT/build/CMakeFiles/ZERO_CHECK.dir

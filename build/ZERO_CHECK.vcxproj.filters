@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\VPN_PROJECT\build\CMakeFiles\2bc8a182c28b91cfbf89779fdc182dca\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A0893F34-1E45-378C-B787-7F0835DB7480}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
