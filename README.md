@@ -4,17 +4,8 @@ A high-performance, secure Layer-3 VPN implementation in C++20 using WinTUN and 
 
 ## 🏗️ Architecture
 
-\`\`\`
-┌─────────────┐         UDP/51820        ┌─────────────┐
-│   Client    │◄────────────────────────►│   Server    │
-│  10.0.0.2   │   Encrypted Tunnel       │  10.0.0.1   │
-└──────┬──────┘                          └──────┬──────┘
-       │                                        │
-   ┌───▼────┐                              ┌───▼────┐
-   │  TUN   │                              │  TUN   │
-   │ Device │                              │ Device │
-   └────────┘                              └────────┘
-\`\`\`
+<img width="988" height="217" alt="image" src="https://github.com/user-attachments/assets/667f3bd7-0697-4150-9869-9855884d76dc" />
+
 
 ## Features
 - **Security**: X25519 Key Exchange, HKDF-SHA256, ChaCha20-Poly1305.
@@ -52,5 +43,5 @@ A high-performance, secure Layer-3 VPN implementation in C++20 using WinTUN and 
    ```powershell
    ./bin/Release/vpn_client.exe
    ```
-# VPN_PROJECT
+# VPN_PROJECT OUTPUT
 <img width="879" height="879" alt="Screenshot 2025-12-02 213858" src="https://github.com/user-attachments/assets/04836eef-e74d-4205-9238-81e58086ffaa" />
